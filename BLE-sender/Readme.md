@@ -17,6 +17,14 @@ The following sensors will communicate with STM32 using SPI protocol or I2C, the
 * Microphone / audio sensor (MP23ABS1)
 * Humidity and temperature sensor (HTS221)
 
+## Programmer
+
+
+One of the following hardware programmers will be needed to launch the firmware on the board:
+
+* [ST-link-v2](https://www.st.com/en/development-tools/st-link-v2.html) Good for programming and debugging the code
+* [ST-link-v3](https://www.st.com/en/development-tools/stlink-v3set.html) The last version of the programmer
+
 # Download the firmware on the board
 ## Install official IDE ST-Microelectronic
 The source code can be built and flashed using the official IDE of St-microelectronics, supported IDEs are:
@@ -39,13 +47,7 @@ Once the installation of the IDE is complete click on *.cproject* file if you in
 
 If you installed STM32CubeIDE click on the *.project* file and the IDE will import the project.
 
-## Programmer
 
-
-One of the following hardware programmers will be needed to launch the firmware on the board:
-
-* [ST-link-v2](https://www.st.com/en/development-tools/st-link-v2.html) Good for programming and debugging the code
-* [ST-link-v3](https://www.st.com/en/development-tools/stlink-v3set.html) The last version of the programmer
 
 ## Flash the code 
 
