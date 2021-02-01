@@ -17,12 +17,23 @@ The following sensors will communicate with STM32 using SPI protocol or I2C, the
 * Microphone / audio sensor (MP23ABS1)
 * Humidity and temperature sensor (HTS221)
 
-## Download the firmware on the board
-
+# Download the firmware on the board
+## Install official IDE ST-Microelectronic
 The source code can be built and flashed using the official IDE of St-microelectronics, supported IDEs are:
 
 * [STM32CubeIDE](https://www.st.com/en/development-tools/stm32cubeide.html) available for Linux, Mac and Windows
 * [SW4STM32](https://www.st.com/en/development-tools/sw4stm32.html) available for Linux, Mac and Windows
+
+## Open the project
+
+Clone the repository 
+
+```
+git clone https://github.com/iot2tangle/STM32_SensorTile.box.git
+cd STM32_SensorTile.box/BLE-sender
+
+```
+
 
 Once the installation of the IDE is complete click on *.cproject* file if you installed SW4STM32, the IDE will launch importing the project.
 
