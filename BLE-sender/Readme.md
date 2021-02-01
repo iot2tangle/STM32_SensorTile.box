@@ -119,8 +119,6 @@ Once started, the ***Channel Id*** will be displayed, and the gateway will be op
 ### Reading messages from the Tangle
 
 You can read the received messages directly from the **I2T Explorer**: https://explorer.iot2tangle.io/ using the Channel Id printed by the Gateway in shell.   
-
-![explorer.jpg](https://postimg.cc/D4TYRvRB)
-
+[![explorer.jpg](https://i.postimg.cc/KjkSk4fS/explorer.jpg)](https://postimg.cc/D4TYRvRB)
 
 *For inquiries, improvements or errors detected, please start an issue in this repository.*
