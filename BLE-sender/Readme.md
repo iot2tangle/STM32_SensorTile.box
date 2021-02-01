@@ -47,15 +47,14 @@ Once the installation of the IDE is complete click on *.cproject* file if you in
 
 If you installed STM32CubeIDE click on the *.project* file and the IDE will import the project.
 
+## Name of the device
 
+The name of the device can be edited in the file *enable.c* the address instead will be fixed.
 
 ## Flash the code 
 
 Connect the board to the programmer and connect the programmer to your pc, click on *run* on the IDE and the project will be compiled and flashed on the board
 
-## Name of the device
-
-The name of the device can be edited in the file *enable.c* the address instead will be fixed.
 
 ## Read BLE Services and Characteristics
 You may also want to read the data directly from the *BLE Server*. For this there are Free OpenSource software.
