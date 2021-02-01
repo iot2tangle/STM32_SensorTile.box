@@ -20,4 +20,4 @@ Thanks to the lithium battery and the plastic box it is ready to collect the dat
 
 # Available connectivity
 
-* [BLE-sender]() -- SensorTile.Box will send the sensors data using *Bluetooth Low Energy (BLE)* to [I2T BLE Gateway](https://github.com/iot2tangle/Streams-ble-gateway)
+* [BLE-sender](https://github.com/iot2tangle/STM32_SensorTile.box/tree/main/BLE-sender) -- SensorTile.Box will send the sensors data using *Bluetooth Low Energy (BLE)* to [I2T BLE Gateway](https://github.com/iot2tangle/Streams-ble-gateway)
